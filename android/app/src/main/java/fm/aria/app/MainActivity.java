@@ -1,4 +1,4 @@
-package com.proximity.app;
+package fm.aria.app;
 
 import android.os.Bundle;
 import com.facebook.react.ReactActivity;
@@ -22,7 +22,7 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "Proximity";
+        return "aria";
     }
 
     @Override

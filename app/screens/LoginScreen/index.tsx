@@ -170,7 +170,7 @@ const LoginScreen: React.FC = () => {
     content = (
       <>
         <View style={styles(theme).content}>
-          <Text style={styles(theme).titleText}>Proximity</Text>
+          <Text style={styles(theme).titleText}>aria</Text>
           <Text style={styles(theme).subtitleText}>
             Welcome to an open
             source social media where you are

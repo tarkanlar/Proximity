@@ -1,4 +1,4 @@
-package com.proximity.app;
+package fm.aria.app;
 
 import android.app.Application;
 import android.content.Context;

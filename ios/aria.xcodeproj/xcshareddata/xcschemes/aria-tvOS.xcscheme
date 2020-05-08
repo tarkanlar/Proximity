@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "Proximity-tvOS.app"
-               BlueprintName = "Proximity-tvOS"
-               ReferencedContainer = "container:Proximity.xcodeproj">
+               BuildableName = "aria-tvOS.app"
+               BlueprintName = "aria-tvOS"
+               ReferencedContainer = "container:aria.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "Proximity-tvOSTests.xctest"
-               BlueprintName = "Proximity-tvOSTests"
-               ReferencedContainer = "container:Proximity.xcodeproj">
+               BuildableName = "aria-tvOSTests.xctest"
+               BlueprintName = "aria-tvOSTests"
+               ReferencedContainer = "container:aria.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "Proximity-tvOSTests.xctest"
-               BlueprintName = "Proximity-tvOSTests"
-               ReferencedContainer = "container:Proximity.xcodeproj">
+               BuildableName = "aria-tvOSTests.xctest"
+               BlueprintName = "aria-tvOSTests"
+               ReferencedContainer = "container:aria.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Proximity-tvOS.app"
-            BlueprintName = "Proximity-tvOS"
-            ReferencedContainer = "container:Proximity.xcodeproj">
+            BuildableName = "aria-tvOS.app"
+            BlueprintName = "aria-tvOS"
+            ReferencedContainer = "container:aria.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Proximity-tvOS.app"
-            BlueprintName = "Proximity-tvOS"
-            ReferencedContainer = "container:Proximity.xcodeproj">
+            BuildableName = "aria-tvOS.app"
+            BlueprintName = "aria-tvOS"
+            ReferencedContainer = "container:aria.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Proximity-tvOS.app"
-            BlueprintName = "Proximity-tvOS"
-            ReferencedContainer = "container:Proximity.xcodeproj">
+            BuildableName = "aria-tvOS.app"
+            BlueprintName = "aria-tvOS"
+            ReferencedContainer = "container:aria.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
