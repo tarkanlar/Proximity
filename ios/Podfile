@@ -1,8 +1,8 @@
 platform :ios, '9.0'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
-target 'Proximity' do
-  # Pods for Proximity
+target 'aria' do
+  # Pods for aria
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
   pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
@@ -40,7 +40,7 @@ target 'Proximity' do
   pod 'Fabric', '~> 1.10.2'
   pod 'Crashlytics', '~> 3.14.0'
   
-  target 'ProximityTests' do
+  target 'ariaTests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -48,10 +48,10 @@ target 'Proximity' do
   use_native_modules!
 end
 
-target 'Proximity-tvOS' do
-  # Pods for Proximity-tvOS
+target 'aria-tvOS' do
+  # Pods for aria-tvOS
 
-  target 'Proximity-tvOSTests' do
+  target 'aria-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end
